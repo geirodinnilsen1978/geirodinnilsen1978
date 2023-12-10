@@ -2,7 +2,7 @@ Hi, I’m @geirodinnilsen1978
 - 👀 I’m interested in ...many things 😁
 - 🌱 I’m currently learning the pi platform 
 - 💞️ I’m just starting mining alot
-- 📫 please feel free to contact me 👍
+- 📫 please feel free to contact me if you want me to add you to pi👍
 
 <!---
 geirodinnilsen1978/geirodinnilsen1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
